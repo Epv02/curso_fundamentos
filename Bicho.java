@@ -166,7 +166,7 @@ public class Bicho{
         int maximo = 5;
         String [] frasesAbuela = new String [5];
         int fraseElegida = random.nextInt(maximo + minimo);
-        frasesAbuela[0] = new String("¡Ahora sí le llegóo la hora a estos bichos mijito!\n\n");
+        frasesAbuela[0] = new String("¡Ahora sí le llegó la hora a estos bichos mijito!\n\n");
         frasesAbuela[1] = new String("¡Este bicho espacial cree que yo soy caída del zarzo!\n\n");
         frasesAbuela[2] = new String("¡Que berriondera mijito, ya aparecieron hasta bichos alienigenas!\n\n");
         frasesAbuela[3] = new String("¡Mija! Pase la chancla que se nos metió un bicho mutante\n\n");
